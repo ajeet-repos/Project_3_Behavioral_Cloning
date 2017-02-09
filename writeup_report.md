@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: images/network_model_behavioral_cloning.jpg "Model Visualization"
+[image1]: images/network_model_behavioral_cloning.JPG "Model Visualization"
 [image2]: images/center_normal.jpg "Grayscaling"
 [image3]: images/left_recov.jpg "Recovery Image"
 [image4]: images/center_recov.jpg "Recovery Image"
